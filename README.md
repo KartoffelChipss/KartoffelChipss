@@ -1,3 +1,4 @@
+![GithubProfileStats](https://github-widgetbox.vercel.app/api/profile?username=Kartoffelchipss&data=followers,repositories,stars,commits&theme=darkmode)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kartoffelchipss?cardType=level&theme=github-dark&preferLogin=false" />
 </a>
