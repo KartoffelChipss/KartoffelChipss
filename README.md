@@ -1,2 +1,2 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kartoffelchipss&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Kartoffelchipss)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,kotlin,python,html,css,sass,bash,xml,json,yaml,mysql,markdown&theme=darkmode&includeNames=true)](https://github.com/Kartoffelchipss)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,kotlin,c,python,html,css,sass,bash,xml,json,yaml,mysql,markdown&theme=darkmode&includeNames=true)](https://github.com/Kartoffelchipss)
