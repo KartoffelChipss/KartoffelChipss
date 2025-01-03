@@ -1,1 +1,1 @@
-<img src="https://f.j4n.net/gh_banner_kartoffel.png">
+<img src="https://j4n.net/gh-banner">
